@@ -1,15 +1,15 @@
 backports.functools-lru-cache==1.4
 cycler==0.10.0
-matplotlib==2.1.1
-numpy==1.13.3
+matplotlib==2.1.1 //x
+numpy==1.13.3 //x
 olefile==0.44
-opencv-python==3.4.0.12
-Pillow==4.3.0
+opencv-python==3.4.0.12 //opencv-python==3.4.2.16
+Pillow==4.3.0 //x
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.3
 six==1.11.0
-tensorflow==1.4.0
-pandas==0.22.0
-scipy==1.0.0
-scikit_learn==0.19.1
+tensorflow==1.4.0 //tensorflow==1.14.0
+pandas==0.22.0 //x
+scipy==1.0.0 //x
+scikit_learn==0.19.1 //x
